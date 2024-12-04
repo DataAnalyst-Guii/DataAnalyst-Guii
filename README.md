@@ -9,6 +9,10 @@ Sou dedicado a traduzir dados em informações úteis e insights valiosos que im
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<a href="https://github.com/seu-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 
 
 
