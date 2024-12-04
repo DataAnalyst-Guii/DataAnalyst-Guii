@@ -1,6 +1,7 @@
 # 👨‍💻 Guilherme 
-## BI Analyst | Business Intelligence | Power Bi | SQL | Data Scientist |
+## BI Analyst | Business Intelligence | Power Bi | SQL | Machine Learning |
 
+**`Data Scientist`**
 
 Profissional orientado a dados com expertise em Inteligência de Negócios (BI), Data Science e Big Data.
 Sou dedicado a traduzir dados em informações úteis e insights valiosos que impulsionam a tomada de decisões. Com formação em tecnologia e sólido conhecimento em análise de dados, utilizo ferramentas de visualização para transformar informações complexas em soluções práticas. Busco aplicar minha experiência em projetos desafiadores, contribuindo para uma cultura data-driven e gerando valor para as organizações.
@@ -14,6 +15,8 @@ Sou dedicado a traduzir dados em informações úteis e insights valiosos que im
 </a>
 
 
+
+### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Python" 
