@@ -1,7 +1,7 @@
 # 👨‍💻 Guilherme 
 ## BI Analyst | Business Intelligence | Power Bi | SQL | Data Science
 
-[![LinkedIn](www.linkedin.com/in/guilherme-almeida-05b94b201)
+[![LinkedIn](https://www.linkedin.com/in/guilherme-almeida-05b94b201)
 
 
 
