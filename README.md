@@ -1,5 +1,5 @@
 # 👨‍💻 Guilherme Almeida Sousa 
-## BI Analyst | Business Intelligence | Machine Learning | Data Science |
+## BI Analyst | Business Intelligence | Data Analysis | Data Science |
 
 
 Profissional orientado a dados com expertise em Inteligência de Negócios (BI), Data Science e Big Data.
