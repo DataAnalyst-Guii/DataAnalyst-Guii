@@ -42,8 +42,9 @@ Sou dedicado a traduzir dados em informações úteis e insights valiosos que im
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
 />
+
 
 <img 
     align="left" 
