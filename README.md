@@ -50,8 +50,8 @@ Dedicado a traduzir dados em informações úteis e insights valiosos que impuls
 <br><br> <!-- Espaço necessário para quebrar a linha -->
 
 ### Experience
-:bar_chart: BI Analyst - Prodata Mobility Brasil
+-:bar_chart: BI Analyst - Prodata Mobility Brasil
 
 
 ### Education
-🧑‍🎓 Graduando em Banco de Dados - Faculdade Impacta
+-🧑‍🎓 Graduando em Banco de Dados - Faculdade Impacta
