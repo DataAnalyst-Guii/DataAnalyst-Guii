@@ -48,8 +48,7 @@ Dedicado a traduzir dados em informações úteis e insights valiosos que impuls
 <br><br> <!-- Espaço necessário para quebrar a linha -->
 
 ### Experience
-BI Analyst - Prodata Mobility Brasil
-:rocket: 🚀
+:bar_chart: BI Analyst - Prodata Mobility Brasil
 
 
 ### Education
