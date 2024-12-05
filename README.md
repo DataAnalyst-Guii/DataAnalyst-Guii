@@ -52,4 +52,4 @@ Dedicado a traduzir dados em informações úteis e insights valiosos que impuls
 
 
 ### Education
-🧑‍🎓 Graduação em Banco de Dados - Faculdade Impacta
+🧑‍🎓 Graduando em Banco de Dados - Faculdade Impacta
