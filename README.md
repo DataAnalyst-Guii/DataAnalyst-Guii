@@ -48,7 +48,9 @@ Dedicado a traduzir dados em informações úteis e insights valiosos que impuls
 <br><br> <!-- Espaço necessário para quebrar a linha -->
 
 ### Experience
-BI Analyst - Prodata Mobility Brasil por três anos
+BI Analyst - Prodata Mobility Brasil
+:rocket: 🚀
+
 
 ### Education
-Graduação em Banco de Dados - Faculdade Impacta
+🧑‍🎓 Graduação em Banco de Dados - Faculdade Impacta
