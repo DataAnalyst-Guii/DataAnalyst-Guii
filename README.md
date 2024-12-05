@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Carvalho Nunes  
+# 👨‍💻 Guilherme Almeida Sousa 
 ## BI Analyst | Business Intelligence | Machine Learning | Data Science |
 
 
