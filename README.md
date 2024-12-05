@@ -1,21 +1,3 @@
-# 👨‍💻 Guilherme 
-## BI Analyst | Business Intelligence | Power Bi | SQL | Machine Learning |
-
-**`Seja muito bem vindo ao meu GitHub`**
-
-Profissional orientado a dados com expertise em Inteligência de Negócios (BI), Data Science e Big Data.
-Sou dedicado a traduzir dados em informações úteis e insights valiosos que impulsionam a tomada de decisões. Com formação em tecnologia e sólido conhecimento em análise de dados, utilizo ferramentas de visualização para transformar informações complexas em soluções práticas. Busco aplicar minha experiência em projetos desafiadores, contribuindo para uma cultura data-driven e gerando valor para as organizações.
-
-<a href="https://www.linkedin.com/in/guilherme-almeida-05b94b201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/seu-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -45,7 +27,6 @@ Sou dedicado a traduzir dados em informações úteis e insights valiosos que im
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Oracle" 
@@ -55,12 +36,10 @@ Sou dedicado a traduzir dados em informações úteis e insights valiosos que im
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
 />
 
-
+<br><br> <!-- Espaço necessário para quebrar a linha -->
 
 ### Experience
 BI Analyst - Prodata Mobility Brasil por três anos
-
-
 
 ### Education
 Graduação em Banco de Dados - Faculdade Impacta
