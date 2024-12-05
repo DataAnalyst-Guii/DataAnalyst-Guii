@@ -56,13 +56,11 @@ Sou dedicado a traduzir dados em informações úteis e insights valiosos que im
 />
 
 
-### Education
-Graduação em Banco de Dados - Faculdade Impacta
-
-
 
 ### Experience
 BI Analyst - Prodata Mobility Brasil por três anos
 
 
 
+### Education
+Graduação em Banco de Dados - Faculdade Impacta
