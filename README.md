@@ -1,7 +1,7 @@
 # 👨‍💻 Eduardo Carvalho Nunes  
 ## BI Analyst | Business Intelligence | Machine Learning | Data Science |
 
-# Bem vindo ao meu GitHub
+# Bem vindo ao meu GitHub #
 Profissional orientado a dados com expertise em Inteligência de Negócios (BI), Data Science e Big Data.
 
 Dedicado a traduzir dados em informações úteis e insights valiosos que impulsionam a tomada de decisões. Com formação em tecnologia e sólido conhecimento em análise de dados, utilizo ferramentas de visualização para transformar informações complexas em soluções práticas. Busco aplicar minha experiência em projetos desafiadores, contribuindo para uma cultura data-driven e gerando valor para as organizações.
