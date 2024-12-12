@@ -10,6 +10,7 @@ Dedicado a traduzir dados em informações úteis e insights valiosos que impuls
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+portfólio: https://sites.google.com/view/portfolioguilhermealmeida/in%C3%ADcio
 
 ---
 
